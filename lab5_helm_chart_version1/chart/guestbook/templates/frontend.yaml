@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
      # - image: nginx
-      - image: phico/frontend:1.0
+      - image: phico/frontend:1.1
         imagePullPolicy: Always
         name: frontend
         ports:
